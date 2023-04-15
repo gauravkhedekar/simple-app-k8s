@@ -5,6 +5,7 @@ metadata:
   labels:
     app: first-app
   name: first-app
+  namespace: first-app
 spec:
   ports:
   - port: 80
